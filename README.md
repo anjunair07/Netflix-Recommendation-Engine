@@ -1,7 +1,12 @@
 # Netflix-Recommendation-Engine
 
 The Rise of Netflix: Exploratory Data Analysis using PandasProfiling, PySpark and Tableau.
+
+## Medium:
 https://medium.com/@anjunair77/the-rise-of-netflix-exploratory-data-analysis-using-pandasprofling-and-pyspark-e986c5095b10
+
+## Tableau Public:
+https://public.tableau.com/app/profile/anjunair77/viz/NetflixRecommendationEngine/DashboardNetflixdupe
 
 This EDA includes a content-based recommendation system, as well as a range of graphs and visualisations, to tell a story using data.
 
