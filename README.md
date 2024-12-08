@@ -2,6 +2,9 @@
 
 The Rise of Netflix: Exploratory Data Analysis using PandasProfiling, PySpark and Tableau.
 
+## Kaggle:
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 ## Medium:
 https://medium.com/@anjunair77/the-rise-of-netflix-exploratory-data-analysis-using-pandasprofling-and-pyspark-e986c5095b10
 
